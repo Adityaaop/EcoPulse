@@ -1,0 +1,30 @@
+{
+  "name": "ecopulse",
+  "version": "1.0.0",
+  "description": "Atmospheric intelligence & smog/fog safety advisory platform with dual Open-Meteo & WAQI telemetry.",
+  "author": "Aditya <adityamishra0578@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Adityaaop/EcoPulse.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.3.0"
+  },
+  "keywords": [
+    "weather",
+    "air-quality",
+    "aqi",
+    "smog",
+    "fog",
+    "open-meteo",
+    "waqi",
+    "health-advisory"
+  ]
+}
